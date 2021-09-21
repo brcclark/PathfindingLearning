@@ -1,0 +1,17 @@
+{
+	"width": 4,
+	"height": 4,
+	"nodeWidth": 32,
+	"nodeHeight": 32,
+	"spacing": 2,
+	"obstacles": {
+		"0": {
+			"x": 2,
+			"y": 0
+		},
+		"1": {
+			"x": 0,
+			"y": 1
+		}
+	}
+}
